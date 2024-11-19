@@ -7,14 +7,16 @@
 
 ### Features
 
-- Drag and drop
-- Add and remove text
-- Edit Text
-- Format Text
-  1. Bold
-  2. Italic
-  3. Underline
-- Align the text in center in just one click
+1. Drag and drop
+2. Add and remove text
+3. Edit Text
+4. Format Text
+
+   - Bold
+   - Italic
+   - Underline
+
+5. Align the text in center in just one click
 
 ### Installation Guide
 
